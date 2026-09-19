@@ -6,7 +6,7 @@ This individual portfolio project is based on Troy University RFP #26-004 for Cu
 
 The main purpose of this project was to understand how a business analyst or proposal analyst would review a complex RFP, organise requirements properly, identify submission obligations, track risks and clarifications, and create a structured response-readiness framework.
 
-![Compliance Matrix](Screenshots/compliance-matrix.png)
+![Compliance Matrix](compliance-matrix.png)
 
 ## What I Did
 
